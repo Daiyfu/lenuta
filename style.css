@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url("images/fundal.jpeg") center/cover no-repeat fixed;
+    background: url("fundal.jpeg") center/cover no-repeat fixed;
     position: relative;
     color: #1f2937;
     font-family: 'Poppins', sans-serif;
